@@ -64,22 +64,15 @@ I'm a Computer Science Engineering student passionate about building meaningful 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <!-- Stats Card clásica -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AaronCasildo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <!-- Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronCasildo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
-</div>
+<p align="center">
+<a href="https://github.com/AaronCasildo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AaronCasildo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AaronCasildo&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-<div align="center">
-  <br>
-  <!-- Tu gráfico de tiempo (arreglado) -->
-  <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=all_times&user_id=180354283" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=180354283&image_size=auto&color_scheme=dark" width="100%">
-      <img alt="Contribution Time Distribution of @AaronCasildo" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=180354283&image_size=auto&color_scheme=light" width="100%">
-    </picture>
-  </a>
-</div>
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AaronCasildo&theme=rogue&bg_color=050f2c&color=ffffff&border_color=ffffff&line=0194dd&point=29c88d)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ---
