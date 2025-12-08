@@ -58,7 +58,7 @@ I'm a Computer Science Engineering student passionate about building meaningful 
 |:--- |:--- |
 | *Laboratory Results Analysis Tool* | *Cloud Certification Path* |
 | Python backend tool designed to help interpret medical test data for easier analysis. | Documenting my path to becoming an AWS Cloud Practitioner. Working with EC2, S3, and Lambda. |
-| `Python` `FastAPI` `React` | `AWS` `Cloud` `DevOps` |
+| `Python` `FastAPI` `JavaScript` | `AWS` `Cloud` `DevOps` |
 
 <br>
 
