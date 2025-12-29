@@ -19,6 +19,7 @@ I'm a Computer Science Engineering student passionate about building meaningful 
 
 -  Currently working on **webCheck** (Lab results analysis)
 -  Currently learning **AWS Services (preparing for Cloud Practitioner)**
+-  Currently learning **Rust & WebAssembly** for browser-based applications with JS/TS
 -  Looking to collaborate on **Open Source Python projects**
 
 ## 🛠️ Tech Stack
