@@ -7,7 +7,6 @@
 *Building solutions that matter, one commit at a time*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaroncasildor/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aacasildor/)
 
 </div>
 
@@ -15,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science Engineering student passionate about building meaningful software and solving complex problems. Currently diving deep into cloud technologies and actively sharpening my algorithmic skills on LeetCode.
+I'm a Computer Science Engineering student passionate about building meaningful software and solving complex problems. Currently diving deep into cloud technologies and Rust & WebAssembly.
 
 -  Currently working on **webCheck** (Lab results analysis)
 -  Currently learning **AWS Services (preparing for Cloud Practitioner)**
