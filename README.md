@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a Computer Science Engineering student passionate about building meaningful software and solving complex problems. Currently diving deep into cloud technologies and Rust & WebAssembly.
 
@@ -21,7 +21,7 @@ I'm a Computer Science Engineering student passionate about building meaningful 
 -  Currently learning **Rust & WebAssembly** for browser-based applications with JS/TS
 -  Looking to collaborate on **Open Source Python projects**
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="left">
   <!-- Lenguajes -->
@@ -52,17 +52,17 @@ I'm a Computer Science Engineering student passionate about building meaningful 
 
 <br>
 
-## 📂 Featured Projects
+## Featured Projects
 
-| 🔬 **webCheck** | ☁️ **AWS Journey** |
+| **webCheck** | **Strafe-Trackk** |
 |:--- |:--- |
-| *Laboratory Results Analysis Tool* | *Cloud Certification Path* |
-| Python backend tool designed to help interpret medical test data for easier analysis. | Documenting my path to becoming an AWS Cloud Practitioner. Working with EC2, S3, and Lambda. |
-| `Python` `FastAPI` `JavaScript` | `AWS` `Cloud` `DevOps` |
+| *Laboratory Results Analysis Tool* | *Counterstrafe Real-time Evaluation* |
+| Python backend tool designed to help interpret medical test data for easier analysis. | Tauri based desktop application made for fps gamers who want improve their counterstrafe mechanics |
+| `Python` `FastAPI` `JavaScript` `Web Development`| `Rust` `TypeScript` `Tauri` `React`|
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <a href="https://github.com/AaronCasildo">
