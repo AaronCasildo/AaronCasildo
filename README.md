@@ -4,7 +4,7 @@
   
 ### Computer Science Engineering Student | Cloud Enthusiast | Problem Solver
 
-*Building solutions that matter, one commit at a time*
+*Building tools that matter, one step at a time*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaroncasildor/)
 
