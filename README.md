@@ -54,7 +54,7 @@ I'm a Computer Science Engineering student passionate about building meaningful 
 
 ## Featured Projects
 
-| **webCheck** | **Strafe-Trackk** |
+| **webCheck** | **Strafe-Trakk** |
 |:--- |:--- |
 | *Laboratory Results Analysis Tool* | *Counterstrafe Real-time Evaluation* |
 | Python backend tool designed to help interpret medical test data for easier analysis. | Tauri based desktop application made for fps gamers who want improve their counterstrafe mechanics |
