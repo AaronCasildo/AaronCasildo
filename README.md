@@ -29,8 +29,6 @@ I'm a Computer Science Engineering student passionate about building meaningful 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" title="C#" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
-  <img width="12" />
   
   <!-- Cloud & DB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" title="AWS" />
@@ -69,10 +67,3 @@ I'm a Computer Science Engineering student passionate about building meaningful 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AaronCasildo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AaronCasildo&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
-
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AaronCasildo&theme=rogue&bg_color=050f2c&color=ffffff&border_color=ffffff&line=0194dd&point=29c88d)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
----
