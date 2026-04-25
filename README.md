@@ -22,12 +22,15 @@ I'm a Computer Science Engineering student passionate about building meaningful 
 -  Looking to collaborate on **Open Source Python projects**
 
 ## Tech Stack
-
 <div align="left">
   <!-- Lenguajes -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" title="C#" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo" title="Rust" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" title="TypeScript" />
   <img width="12" />
   
   <!-- Cloud & DB -->
@@ -46,8 +49,8 @@ I'm a Computer Science Engineering student passionate about building meaningful 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="VS Code" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux" />
+  
 </div>
-
 <br>
 
 ## Featured Projects
